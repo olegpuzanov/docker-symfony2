@@ -1,6 +1,6 @@
 docker-symfony2
 ==================
-This is the base image preconfigured with Ubuntu, Nginx, PHP-FPM to use with Symfony2 framework. It's based on another Docker image [olegpuzanov/docker-nginx-php5-fpm](https://github.com/olegpuzanov/docker-nginx-php5-fpm).
+This is the base image preconfigured with Ubuntu, Nginx, PHP-FPM to use with Symfony2 framework. It's based on another Docker image [olegpuzanov/docker-nginx-php5-fpm](https://github.com/olegpuzanov/docker-nginx-php5-fpm). Docker repository available here [olegpuzanov/docker-symfony2/](https://registry.hub.docker.com/u/olegpuzanov/docker-symfony2/).
 
 **Modifications:**
 - composer installed
